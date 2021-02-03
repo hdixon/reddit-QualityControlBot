@@ -1,7 +1,7 @@
 config = dict(
-    subreddit="mredinlaw_bot_testing",  # Subreddit
-    comment_text="Demo Text",  # Text the bot should comment
-    votes=20,  # Used for comments.py
+    subreddit="TikTok",  # Subreddit
+    comment_text="Upvote this post if it is suitable for this subreddit. Downvote it if not. The post will be removed if it is deemed unsuitable.",  # Text the bot should comment
+    votes=5,  # Used for comments.py
     score=-2,  # Used for votes.py
-    minutes=180,  # Used in both
+    minutes=300,  # Used in both
 )

@@ -108,3 +108,7 @@ venv.bak/
 .idea/inspectionProfiles/Project_Default.xml
 .idea/workspace.xml
 *.xml
+.DS_Store
+*.db
+config.py
+keys.py
